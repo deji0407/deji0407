@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Oladimeji 👋
+I'm currently working through the Learn to Cloud challenge and building hands-on cloud engineering skills.
 
-<!--
-**deji0407/deji0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+🌩️ Learning Azure and cloud infrastructure
+🏗️ Practicing Infrastructure as Code with Terraform
+💻 Building projects to strengthen my cloud skills
+🎯 Working toward cloud certifications and real-world experience
+Current Focus
+Azure Virtual Desktop
+Azure Networking
+Terraform
+GitHub and DevOps fundamentals
+Thanks for visiting my profile!
