@@ -1,4 +1,4 @@
-Hi, I'm Oladimeji 👋
+Hi, I'm Deji 👋
 I'm currently working through the Learn to Cloud challenge and building hands-on cloud engineering skills.
 
 About Me
